@@ -1,0 +1,12 @@
+{
+  "name": "Kwikli",
+  "symbol": "KWS",
+  "description": "Stablecoin ofisyèl Sousou — 1 KWS = 1 HTG (Goud Ayisyen)",
+  "image": "https://raw.githubusercontent.com/konocompanymultiservices-web/kwikli/main/logo.png",
+  "external_url": "https://sousou.tv",
+  "attributes": [
+    { "trait_type": "Type", "value": "Stablecoin" },
+    { "trait_type": "Peg", "value": "1 HTG" },
+    { "trait_type": "Network", "value": "Solana" }
+  ]
+}
